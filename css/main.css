@@ -116,7 +116,7 @@ ol {
     border-radius: 50%;
     left: 0;
     top: 7px;
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .line-height-36 {
@@ -168,18 +168,18 @@ strong {
 }
 
 .text-default {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .bg-default {
     color: #444;
-    background: #dba423;
+    background: #bb8507;
     padding: 3px 4px;
 }
 
 .bg-primary {
     color: #fff;
-    background: #dba423;
+    background: #bb8507;
     padding: 3px 4px;
 }
 
@@ -309,7 +309,7 @@ strong {
 }
 
 .header-title .text-primary {
-    color: #dba423 !important;
+    color: #bb8507 !important;
 }
 
 .header-content header-title span {
@@ -497,7 +497,7 @@ footer #copyright .nav-inline {
     height: 35px;
     text-align: center;
     display: inline-block;
-    border: 1px solid #dba423;
+    border: 1px solid #bb8507;
     line-height: 35px;
     margin: 4px;
     width: 35px;
@@ -653,7 +653,7 @@ footer .menu li a:hover {
 }
 
 .twitter-content span a {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .featured-list {
@@ -763,7 +763,7 @@ footer .menu li a:hover {
     text-decoration: none;
     color: #fff;
     font-size: 12px;
-    background: #dba423;
+    background: #bb8507;
     text-transform: uppercase;
     border: none;
     padding: 7px 16px;
@@ -836,7 +836,7 @@ footer .menu li a:hover {
 }
 
 .btn-link {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .btn-link:hover {
@@ -881,8 +881,8 @@ footer .menu li a:hover {
 }
 
 .btn-filled {
-    background: #dba423;
-    border: 2px solid #dba423;
+    background: #bb8507;
+    border: 2px solid #bb8507;
     color: #fff;
 }
 
@@ -894,8 +894,8 @@ footer .menu li a:hover {
 .btn-default-filled:active,
 .btn-default-filled:focus {
     color: #fff;
-    background: #dba423;
-    border: 2px solid #dba423;
+    background: #bb8507;
+    border: 2px solid #bb8507;
 }
 
 .btn-default-filled:hover {
@@ -1058,25 +1058,25 @@ footer .menu li a:hover {
 }
 
 .pagination .btn-default {
-    color: #dba423;
+    color: #bb8507;
     border: 1px solid #ddd;
     background: transparent;
 }
 
 .pagination .btn-default:hover {
     color: #fff;
-    background: #dba423;
-    border: 1px solid #dba423;
+    background: #bb8507;
+    border: 1px solid #bb8507;
 }
 
 .pagination .btn-active {
     color: #fff !important;
-    background: #dba423 !important;
-    border: 1px solid #dba423 !important;
+    background: #bb8507 !important;
+    border: 1px solid #bb8507 !important;
 }
 
 .pagination .btn-default-filled {
-    color: #dba423;
+    color: #bb8507;
     background: #ddd;
     border: 1px solid #ddd;
 }
@@ -1238,11 +1238,11 @@ footer .menu li a:hover {
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-toggler {
-    color: #dba423 !important;
+    color: #bb8507 !important;
 }
 
 .navbar-toggle .icon-bar {
-    background: #dba423;
+    background: #bb8507;
     width: 20px;
     height: 3px;
     border-radius: 5px;
@@ -1272,13 +1272,13 @@ footer .menu li a:hover {
 
 .dropdown-item:focus,
 .dropdown-item:hover {
-    background: #dba423;
+    background: #bb8507;
     color: #fff;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 
@@ -1293,29 +1293,29 @@ footer .menu li a:hover {
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .navbar-light .navbar-nav .nav-link:hover:focus {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .navbar-light .navbar-nav>.active>a,
 .navbar-light .navbar-nav>.active>a:focus,
 .navbar-light .navbar-nav>.active>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-light .navbar-nav>.open>a,
 .navbar-light .navbar-nav>.open>a:focus,
 .navbar-light .navbar-nav>.open>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-light .navbar-toggle .icon-bar {
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .navbar-light .navbar-toggle {
@@ -1403,7 +1403,7 @@ footer .menu li a:hover {
 }
 
 .navbar-light-transparent.navbar-light .navbar-nav>li>a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .navbar-light-transparent.navbar-light .navbar-nav>li>a:focus {
@@ -1413,19 +1413,19 @@ footer .menu li a:hover {
 .navbar-light-transparent.navbar-light .navbar-nav>.active>a,
 .navbar-light-transparent.navbar-light .navbar-nav>.active>a:focus,
 .navbar-light-transparent.navbar-light .navbar-nav>.active>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-light-transparent.navbar-light .navbar-nav>.open>a,
 .navbar-light-transparent.navbar-light .navbar-nav>.open>a:focus,
 .navbar-light-transparent.navbar-light .navbar-nav>.open>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-light-transparent.navbar-light .navbar-toggle .icon-bar {
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .navbar-light-transparent.navbar-light .navbar-toggle {
@@ -1442,7 +1442,7 @@ footer .menu li a:hover {
 }
 
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>li>a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>li>a:focus {
@@ -1452,19 +1452,19 @@ footer .menu li a:hover {
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.active>a,
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.active>a:focus,
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.active>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.open>a:focus,
 .navbar-inverse-transparent.navbar-inverse .navbar-nav>.open>a:hover {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
 .navbar-inverse-transparent.navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .navbar-inverse-transparent .navbar-inverse .navbar-toggle {
@@ -1520,7 +1520,7 @@ footer .menu li a:hover {
 }
 
 .top-menu a:hover {
-    color: #dba423 !important;
+    color: #bb8507 !important;
 }
 
 .top-menu .left i {
@@ -1570,7 +1570,7 @@ footer .menu li a:hover {
 }
 
 .btn-top-menu:hover {
-    border: 2px solid #dba423;
+    border: 2px solid #bb8507;
 }
 
 .btn-top-menu a {
@@ -1589,8 +1589,8 @@ footer .menu li a:hover {
 }
 
 .btn-top-menu-inverse:hover {
-    border: 2px solid #dba423;
-    background: #dba423;
+    border: 2px solid #bb8507;
+    background: #bb8507;
 }
 
 .btn-top-menu-inverse a:hover {
@@ -1608,7 +1608,7 @@ footer .menu li a:hover {
 }
 
 .top-menu-bg .btn-top-menu:hover {
-    border: 2px solid #dba423;
+    border: 2px solid #bb8507;
 }
 
 .top-menu-bg-inverse .btn-top-menu-inverse {
@@ -1616,7 +1616,7 @@ footer .menu li a:hover {
 }
 
 .top-menu-bg-inverse .btn-top-menu-inverse:hover {
-    border: 2px solid #dba423;
+    border: 2px solid #bb8507;
 }
 
 
@@ -1629,7 +1629,7 @@ footer .menu li a:hover {
     padding: 8px;
     cursor: pointer;
     position: fixed;
-    background: #dba423;
+    background: #bb8507;
     z-index: 999;
     top: 124px;
     left: 0px;
@@ -1667,7 +1667,7 @@ footer .menu li a:hover {
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover,
 .navmenu-default .navmenu-nav>li>a:focus,
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
 }
 
@@ -1685,7 +1685,7 @@ footer .menu li a:hover {
 }
 
 nav#menu span.fa.fa-bars:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .navmenu-default .navmenu-nav>.active>a,
@@ -1694,7 +1694,7 @@ nav#menu span.fa.fa-bars:hover {
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:hover,
 .navmenu-default .navmenu-nav>.active>a:focus,
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:focus {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .close {
@@ -1707,7 +1707,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .close i {
-    background: #dba423;
+    background: #bb8507;
     color: #fff;
     border-radius: 4px;
     font-size: 16px;
@@ -1750,7 +1750,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .service-box .service-icon i {
     font-size: 32px;
-    color: #dba423;
+    color: #bb8507;
 }
 
 .service-box .service-content {
@@ -1772,7 +1772,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .service-box .service-content h4 a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .service-center .service-icon {
@@ -1810,7 +1810,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .image-service-box h4 a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .image-service-box .service-text {
@@ -2181,7 +2181,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 #facts .fact-icon {
-    color: #dba423;
+    color: #bb8507;
     font-size: 46px;
     display: block;
     margin-top: 0;
@@ -2291,7 +2291,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .single-testimonial-area .testimonial-inner .testimonial-footer a {
-    color: #dba423;
+    color: #bb8507;
     font-size: 15px;
 }
 
@@ -2314,7 +2314,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .list-style li i {
     margin-right: 10px;
-    color: #dba423;
+    color: #bb8507;
 }
 
 
@@ -2346,8 +2346,8 @@ nav#menu span.fa.fa-bars:hover {
 .featured-box .featured-icon i {
     width: 48px;
     height: 48px;
-    color: #dba423;
-    border: 1px solid #dba423;
+    color: #bb8507;
+    border: 1px solid #bb8507;
     display: inline-block;
     text-align: center;
     line-height: 48px;
@@ -2369,7 +2369,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .featured-box:hover .featured-icon i {
-    background: #dba423;
+    background: #bb8507;
     color: #fff;
 }
 
@@ -2416,7 +2416,7 @@ nav#menu span.fa.fa-bars:hover {
 .featured-box-item .featured-icon i {
     width: 70px;
     height: 70px;
-    color: #dba423;
+    color: #bb8507;
     border: 2px solid #f1f1f1;
     text-align: center;
     line-height: 70px;
@@ -2440,7 +2440,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .featured-box-item:hover .featured-icon i {
-    background: #dba423;
+    background: #bb8507;
     color: #fff;
 }
 
@@ -2517,7 +2517,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .pricing-tables .pricing-table-block .highlight-plan .plan-signup {
     padding: 30px 0;
-    background: #dba423;
+    background: #bb8507;
 }
 
 .pricing-tables .pricing-table-block .highlight-plan .plan-signup .btn-system.border-btn {
@@ -2537,7 +2537,7 @@ nav#menu span.fa.fa-bars:hover {
 
 .pricing-table-block .plan-name {
     padding: 25px;
-    background: #dba423;
+    background: #bb8507;
     margin-bottom: 20px;
 }
 
@@ -2656,7 +2656,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .table-active {
-    background: #dba423;
+    background: #bb8507;
 }
 
 .table-active .plan-name h3 {
@@ -2688,7 +2688,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .table-active .plan-signup .btn-common:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 
@@ -2759,7 +2759,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .card-2 .card-block .meta a:hover {
-    color: #dba423;
+    color: #bb8507;
     cursor: pointer;
 }
 
@@ -2816,7 +2816,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .blog-item-wrapper .blog-item-text h3 a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .blog-item-wrapper .blog-item-text .meta-tags {
@@ -2829,7 +2829,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .blog-item-wrapper .blog-item-text .meta-tags .comments a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .blog-block {
@@ -2849,7 +2849,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .blog-block .blog-content h3 a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .blog-post {
@@ -2865,7 +2865,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .blog-post h3 a:hover {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .about-sidebar-widget,
@@ -2953,17 +2953,17 @@ nav#menu span.fa.fa-bars:hover {
     font-size: 11px;
     line-height: 15px;
     color: #fff;
-    background-color: #dba423;
+    background-color: #bb8507;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 
 .progress-bar-default {
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .progress-bar-primary {
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .progress-bar-success {
@@ -3010,7 +3010,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .count-one .icon i {
-    color: #dba423;
+    color: #bb8507;
     font-size: 48px;
 }
 
@@ -3078,7 +3078,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .text-primary {
-    color: #dba423 !important;
+    color: #bb8507 !important;
 }
 
 
@@ -3088,7 +3088,7 @@ nav#menu span.fa.fa-bars:hover {
     width: 12px !important;
     height: 12px !important;
     margin: 5px !important;
-    background: #dba423 !important;
+    background: #bb8507 !important;
 }
 
 #cards-carousel .card-block {
@@ -3341,7 +3341,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .contact-form .form-control:focus {
-    border-color: #dba423;
+    border-color: #bb8507;
 }
 
 .contact-form .contact-icon {
@@ -3363,7 +3363,7 @@ nav#menu span.fa.fa-bars:hover {
 }
 
 .contact-form textarea:focus {
-    border-color: #dba423;
+    border-color: #bb8507;
 }
 
 .contact-form .form-group {
@@ -3437,7 +3437,7 @@ address i {
 }
 
 .form-control:focus {
-    border-color: #dba423;
+    border-color: #bb8507;
 }
 
 .form-group input {
@@ -3469,7 +3469,7 @@ address i {
 }
 
 #contactForm .form-control:focus {
-    border-color: #dba423;
+    border-color: #bb8507;
 }
 
 #contactForm textarea {
@@ -3620,7 +3620,7 @@ address i {
 }
 
 .log-line .checkbox-primary label {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .forgot-password {
@@ -3663,27 +3663,27 @@ address i {
 }
 
 .label-default {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
-    border: 2px solid #dba423;
+    border: 2px solid #bb8507;
 }
 
 .label-default-filled {
     color: #fff;
-    background-color: #dba423;
-    border: 2px solid #dba423;
+    background-color: #bb8507;
+    border: 2px solid #bb8507;
 }
 
 .label-primary {
-    color: #dba423;
+    color: #bb8507;
     background-color: transparent;
-    border: 2px solid #dba423;
+    border: 2px solid #bb8507;
 }
 
 .label-primary-filled {
     color: #fff;
-    background-color: #dba423;
-    border: 2px solid #dba423;
+    background-color: #bb8507;
+    border: 2px solid #bb8507;
 }
 
 .label-success {
@@ -3744,12 +3744,12 @@ address i {
 .nav-pills>li.active>a:focus,
 .nav-pills>li.active>a:hover {
     color: #fff;
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .nav-pills>li>a:hover {
     color: #fff;
-    background-color: #dba423;
+    background-color: #bb8507;
 }
 
 .nav-pills>li>a {
@@ -3760,7 +3760,7 @@ address i {
 
 .badge {
     color: #fff;
-    background-color: #dba423;
+    background-color: #bb8507;
     font-size: 10px;
     font-weight: 400;
     border-radius: 5px;
@@ -3946,7 +3946,7 @@ address i {
     -o-transition: left 250ms cubic-bezier(0.34, 1.61, 0.7, 1), right 250ms cubic-bezier(0.34, 1.61, 0.7, 1);
     -webkit-transition: left 250ms cubic-bezier(0.34, 1.61, 0.7, 1), right 250ms cubic-bezier(0.34, 1.61, 0.7, 1);
     transition: left 250ms cubic-bezier(0.34, 1.61, 0.7, 1), right 250ms cubic-bezier(0.34, 1.61, 0.7, 1);
-    background: #dba423;
+    background: #bb8507;
 }
 
 .tgl .tgl_bgd-negative {
@@ -4013,7 +4013,7 @@ a:hover:not([href]):not([tabindex]) {
 
 .controls .active {
     color: #fff !important;
-    background: #dba423;
+    background: #bb8507;
 }
 
 #portfolio-list {
@@ -4100,7 +4100,7 @@ a:hover:not([href]):not([tabindex]) {
 
 .sup-desc-wrap .sup-link a:hover {
     background: #fff;
-    color: #dba423;
+    color: #bb8507;
 }
 
 .sup-desc-wrap .sup-link .left-link,
@@ -4240,7 +4240,7 @@ a:hover:not([href]):not([tabindex]) {
 
 .hovereffect .iocns a:hover {
     background: #fff;
-    color: #dba423;
+    color: #bb8507;
 }
 
 .hovereffect-title h6,
@@ -4346,7 +4346,7 @@ figure {
     outline: none;
     border-radius: 4px;
     color: #fff;
-    background: #dba423;
+    background: #bb8507;
     border: 1px solid transparent;
     width: 42px;
     height: 42px;
@@ -4383,11 +4383,11 @@ figure {
 .table-bordered.table-2>thead>tr>th {
     background: #232833;
     font-weight: 700;
-    color: #dba423;
+    color: #bb8507;
 }
 
 .table-bordered.table-3>thead>tr>th {
-    background: #dba423;
+    background: #bb8507;
     font-weight: 700;
     color: #fff;
 }
@@ -4455,7 +4455,7 @@ ul.nav-tabs li a {
 #default-tab .nav-tabs>li a.active:hover {
     border: 0 none;
     position: relative;
-    color: #dba423;
+    color: #bb8507;
 }
 
 .nav-bg>li>a {
@@ -4468,14 +4468,14 @@ ul.nav-tabs li a {
 .nav-bg>li>a.active,
 .nav-bg>li a.active:focus,
 .nav-bg>li a:hover {
-    color: #dba423 !important;
-    border: 1px solid #dba423 !important;
+    color: #bb8507 !important;
+    border: 1px solid #bb8507 !important;
     border-radius: 0;
 }
 
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
-    color: #dba423;
+    color: #bb8507;
 }
 
 .nav-tabs {
@@ -4509,7 +4509,7 @@ ul.nav-tabs li a {
 
 .panel-group .panel-heading {
     padding: 15px;
-    background: #dba423;
+    background: #bb8507;
 }
 
 .panel-group .panel-title {
